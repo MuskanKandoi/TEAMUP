@@ -31,8 +31,8 @@ JWT_SECRET=your_jwt_secret_key
 
 ### Clone the project
 ```bash
-git clone https://github.com/veerreshr/team-maker.git
-cd team-maker
+git clone https://github.com/MuskanKandoi/TEAMUP.git
+cd TeamUp
 ```
 
 ### Install dependencies
