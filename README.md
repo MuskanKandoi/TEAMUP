@@ -7,7 +7,6 @@ A real-world issue we've encountered while looking for a team to participate in 
 - User and Admin Authentication
 - Team Creation & Searching
 - Collaboration (Chat Feature)
-- Event Listings & Custom Event Addition
 - Team and User Profiles
 
 ## Tech Stack
