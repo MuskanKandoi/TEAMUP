@@ -1,7 +1,7 @@
 # TeamUp
 
 ## Problem Statement
-A real-world issue we've encountered while looking for a team to participate in a hackathon is finding a random teammate or team and synchronizing our abilities. Team Maker helps users search for teams using multiple filters and learn about each other via user portfolios.
+A real-world issue we've encountered while looking for a team to participate in a hackathon is finding a random teammate or team and synchronizing our abilities. TeamUp helps users search for teams using multiple filters and learn about each other via user portfolios.
 
 ## Features
 - User and Admin Authentication
